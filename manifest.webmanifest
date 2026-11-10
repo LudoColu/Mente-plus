@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Mente+ - Calcolo mentale",
+  "short_name": "Mente+",
+  "description": "Calcolo mentale: esercizi, sfide a tempo e progressi.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b32",
+  "theme_color": "#101b32",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
